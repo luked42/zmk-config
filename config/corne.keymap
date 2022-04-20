@@ -53,4 +53,5 @@
                   &kp LCTRL &kp LCTRL &kp SPACE  &kp LSHFT &kp BSPC &kp BSPC
                         >;
                 };
+        };
 };
